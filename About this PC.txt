@@ -1,0 +1,7 @@
+About this PC
+
+This is a Desktop PC (non-portable) in the UOL domain at the University of Leicester.
+
+The hard disk is not encrypted and should not be used to store confidential or sensitive material.
+
+Offline working is not enabled.
